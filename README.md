@@ -1,0 +1,11 @@
+TM1637が乗った７セグモジュールを使って時間とタイマーを表示するプログラム。
+ESP32用
+使用ピン
+18番ピン：タイマー機能
+14番ピン：モード切替
+23番ピン：LED点灯
+17番ピン：TM1637のCLK
+16番ピン：TM1637のDIO
+使い方は動画とBLOG資料参照の事
+https://www.youtube.com/@izumolab
+https://izumothevmaker.blogspot.com/
